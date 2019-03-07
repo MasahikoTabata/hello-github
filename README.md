@@ -1,2 +1,2 @@
 # hello-github
-GitHub の既往を試すためのリポジトリです。
+GitHub の機能を試すためのリポジトリです。
